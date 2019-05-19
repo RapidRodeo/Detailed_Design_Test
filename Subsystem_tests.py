@@ -13,6 +13,7 @@ def main():
 	test1 = subsys_test(1,3)
 	print ("Hello World!")
 	print (test1)
+	print ("SW Subsystem test completet"
 	return test1
 		
 if __name__ == '__main__':
